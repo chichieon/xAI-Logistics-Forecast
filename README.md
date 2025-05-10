@@ -1,7 +1,7 @@
 # xAI-Logistics-Forecast
 
 ##개요
-기획은 grok을 사용하였고 cursor를 이요한 바이브 코딩으로 구현하였습니다.
+기획은 grok을 사용하였고 cursor를 이용한 바이브 코딩으로 구현하였습니다.
 
 ## 프로젝트 상세
 
